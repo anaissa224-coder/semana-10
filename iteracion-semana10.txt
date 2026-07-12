@@ -1,0 +1,15 @@
+- Configuración de la base de datos y maquetación del Login.
+
+- Son las más importantes porque constituyen la base crítica sobre la cual se construyen 
+las demás funcionalidades del sistema. Sin completar estas tareas, el resto del equipo 
+tendría bloqueos técnicos para avanzar.
+
+Una tarea se considera terminada cuando cumple con los siguientes criterios: 
+- Funcionalidad completa: El código cumple con todos los requisitos solicitados y no 
+presenta errores críticos.
+- Validación de pruebas: Se han realizado pruebas unitarias y manuales que confirman
+que la solución es estable.
+- Documentación y control: El código está debidamente documentado, ha sido revisado
+por un par y se encuentra subido al repositorio principal de Git.
+
+Es eficiente.
