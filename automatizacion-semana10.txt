@@ -1,0 +1,5 @@
+Evento: formulario de contacto completado en el sitio web.
+Acción: enviar mensaje a Telegram.
+Mensaje: ¡nuevo prospecto interesado! Un cliente ha completado el
+formulario de contacto. Favor de revisar el panel de administración 
+para ver los detalles.
