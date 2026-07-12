@@ -1,0 +1,4 @@
+Como ciudadana, quiero adjuntar fotos o videos a mi reporte para que la evidencia del problema sea irrefutable.
+Como vecina afectada, quiero ver un mapa de incidencias en mi zona para saber si un problema ya ha sido reportado por alguien más.
+Como veedora, quisiera generar un reporte en PDF con el resumen de las quejas mensuales para presentarlo ante las autoridades locales.
+Como usuaria, quiero recibir una notificación cuando el estado de mi reporte cambie a "Resuelto" para verificar la solución en campo.
