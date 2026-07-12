@@ -1,0 +1,9 @@
+Las metodologías ágiles permiten que los procesos de participación ciudadana 
+sean flexibles y se adapten rápidamente a las necesidades cambiantes de la 
+comunidad, dividiendo grandes objetivos en tareas manejables y evaluables a
+corto plazo. Por otro lado, la automatización reduce la carga administrativa
+y el error humano, permitiendo que las respuestas a consultas comunes o el
+procesamiento de datos sean inmediatos, optimizando así los recursos disponibles.
+Canales como Telegram complementan esto al ofrecer una comunicación directa,
+masiva y segura, facilitando la transparencia y el flujo de información en tiempo
+real sin barreras burocráticas. 
